@@ -252,8 +252,7 @@ console.log(fancyCalculator.add(9))       // => 10
 Implement the following in the __problems/07-all-the-args.js__ file.
 
 Write a function named `allTheArgs(func, ...args)` that will accept a
-function `func` and any number of arguments. Then return the string
-`"You bowed to"` concatenated to the array of `args`. The `allTheArgs` function
+function `func` and any number of arguments. The `allTheArgs` function
 should return the passed-in function `func` modified to always be invoked with
 the passed-in arguments `args`. See code block below for further details.
 
